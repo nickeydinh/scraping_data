@@ -126,6 +126,6 @@ for link in all_links:
 print("\nKet qua:")
 print(d)
 
-# file_name = 'Painters_Final.xlsx'
-# d.to_excel(file_name, index=False)
-# print('Xong!')
+file_name = 'Painters_Final.xlsx'
+d.to_excel(file_name, index=False)
+print('Xong!')
